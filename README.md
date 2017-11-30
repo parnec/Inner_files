@@ -14,7 +14,7 @@ __Update 30-11-2017__:   __It's a VPN manual.__
 
 ## Warning
 
-仅限内部使用。
+For internal use only.
 
 
 ## License
