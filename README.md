@@ -19,4 +19,4 @@ __Update 30-11-2017__:   __It's a VPN manual.__
 
 ## License
 
-[MIT](https://github.com/JNingWei/Image-Filter/blob/master/LICENSE.md)
+[MIT](https://github.com/parnec/Inner_files/blob/dev/LICENSE.md)
